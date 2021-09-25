@@ -1,5 +1,4 @@
 Config { font = "xft:JetBrains Mono:style=Regular:size=8"
---       , font = "xft:Font Awesome 5 Free Solid:pixelsize=8"
        , additionalFonts = [ "xft:Font Awesome 5 Free Solid:pixelsize=8" 
                            , "xft:Font Awesome 5 Brands:pixelsize=8" ]
        , borderColor = "black"
